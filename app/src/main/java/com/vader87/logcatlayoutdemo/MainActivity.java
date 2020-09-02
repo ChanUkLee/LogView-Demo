@@ -4,9 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.vader87.locatlayout.*;
+
 public class MainActivity extends AppCompatActivity {
 
-    com.vader87.locatlayout.LogcatLayout logcatLayout = null;
+    private LogcatLayout logcatLayout = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
