@@ -1,6 +1,6 @@
-# LogcatLayout-Demo
+# LogView-Demo
 
-[Plugin Link](https://github.com/ChanUkLee/LogcatLayout)
+[Plugin Link](https://github.com/ChanUkLee/LogView)
 
 ___
 
